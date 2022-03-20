@@ -17,7 +17,6 @@ li{
 }
 
 /* base styles */
-
 ::selection{
     background: var(--primary);
     color: var(--secondary);
